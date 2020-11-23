@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Sandeep github stats](https://github-readme-stats.vercel.app/api?username=sandeepchowdary7&show_icons=true&theme=cobalt&count_private=true)](https://github.com/sandeepchowdary7/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepchowdary7&layout=compact&show_icons=true&theme=cobalt)](https://github.com/sandeepchowdary7/github-readme-stats)
 
 <!--
 **sandeepchowdary7/sandeepchowdary7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
